@@ -1,7 +1,7 @@
 
-<h1 align="center">Oi 👋, Eu sou Alan Diego</h1>
+<h1 align="right">Oi 👋, Eu sou Alan Diego</h1>
 <br>
-<h2 align="center">Desenvolvedor Web...</h2>
+<h2 align="right">Desenvolvedor Web...</h2>
 <br>
  <h3>👨‍💻Minhas habilidades são </h3>
  
