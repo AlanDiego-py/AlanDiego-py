@@ -1,9 +1,10 @@
 
 <h1 align="left">Oi 👋, Eu sou Alan Diego</h1>
 <br>
-<h2 align="left">Desenvolvedor Web...</h2>
-<br>
- <h3>👨‍💻Minhas habilidades são </h3>
+💻 Graduado em Matemática e Pós-Graduado em Estatística, além de atuar como desenvolvedor frontend React!</br>
+💼 Atualmente, me dedico ao desenvolvimento web com React, buscando criar soluções inovadoras e práticas!
+<h2 align="left">Desenvolvedor Web...</h2></br>
+👨‍💻Minhas habilidades são 
  
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
