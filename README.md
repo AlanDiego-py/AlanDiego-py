@@ -1,20 +1,32 @@
 
 <h1 align="left">Oi 👋, Eu sou Alan Diego</h1>
 <br>
-💻 Graduado em Matemática e Pós-Graduado em Estatística, além de atuar como desenvolvedor frontend React!</br>
-💼 Atualmente, me dedico ao desenvolvimento web com React, buscando criar soluções inovadoras e práticas!
-<h2 align="left">Desenvolvedor Web...</h2></br>
+💻 Sou Estatístico 📊 com experiência em análise de dados, BI, visualização e automação de processos. Busco transformar dados em soluções inteligentes e de fácil implementação para problemas reais.
+<h2 align="left">Analista de Dados...</h2></br>
+
+
+
+🔗 LinkedIn 
+<a href="https://www.linkedin.com/in/professoralandiego/" target="blank"> <img align="center" src="https://img.shields.io/badge/-AlanDiego-05122A?style=flat&logo=linkedin" alt="Linkedin"/></a>
+
+📁 Portfólio no GitHub
+
+📫 Contato: alandiego175@gmail.com
+
+
+
+<h2 align="left">Minhas skills são</h2></br>
 👨‍💻Minhas habilidades são 
- 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
+- ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
+- ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+- ![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)
 - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 - ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 - ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-- ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 - ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-- ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
-- ![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)
+
 <br>
 <h3>💬Contatos</h3>
 
