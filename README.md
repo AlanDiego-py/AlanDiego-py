@@ -13,19 +13,27 @@
 
 📫 Contato: alandiego175@gmail.com
 
+<h2 align="left">🛠️ Minhas Ferramentas para Transformar Dados em Conhecimento 🛠️</h2></br>
+
+Minha caixa de ferramentas está em constante expansão, mas atualmente conto com:
+
+- **Estatística e Matemática:** Fundamentos sólidos para análise inferencial, testes de hipóteses, modelagem e interpretação de resultados.</br>
+- **Aprendizado de Máquina (Iniciante Entusiasmado):** Explorando algoritmos para identificar padrões complexos e construir modelos preditivos. Ansioso para aprofundar meus conhecimentos e aplicar essas técnicas em projetos práticos.
+- **Excel:** Domínio em manipulação, análise exploratória, visualização e criação de modelos estatísticos.
+- **SQL:** Habilidade em consultar, manipular e extrair informações de bancos de dados relacionais.
+- **Power BI**: Experiência na criação de dashboards interativos e visualizações impactantes para comunicar insights de dados de forma clara e objetiva.
 
 
-<h2 align="left">Minhas skills são</h2></br>
-👨‍💻Minhas habilidades são 
+<h2 align="left">.🎯 Buscando Desafios e Oportunidades no Mundo da Análise de Dados 🎯</h2></br>
+Minha paixão por desafios e meu desejo contínuo de aprendizado me motivam a buscar oportunidades na área de Análise de Dados. Acredito que minha combinação única de rigor matemático, visão estatística, proficiência em ferramentas tecnológicas e habilidades de comunicação me tornam um profissional com grande potencial para agregar valor a equipes de dados.
 
-- ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
-- ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-- ![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)
-- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-- ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+Estou particularmente interessado em projetos que envolvam:
+
+- Análise exploratória e identificação de padrões significativos.
+- Construção e avaliação de modelos preditivos (com foco em aprendizado contínuo).
+- Criação de visualizações de dados claras e acionáveis.
+- Trabalho com grandes volumes de dados e diferentes fontes.
+- Resolução de problemas complexos através da aplicação de métodos estatísticos e computacionais.
 
 <br>
 <h3>💬Contatos</h3>
